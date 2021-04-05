@@ -8,23 +8,22 @@ Win+t=Þ
 Alt+t=þ
 
 Eth:
-Ctrl+2=Ð
-Alt+2=ð
+Ctrl+2=Ð | Alt+2=ð
 
 N tilde:
-Win+y=Ñ Alt+y=ñ
+Win+y=Ñ | Alt+y=ñ
 
 N acute:
-Win+g=Ń Alt+g=ń
+Win+g=Ń | Alt+g=ń
 
 Z descender:
-Win+s=Ⱬ Alt+s=ⱬ
+Win+s=Ⱬ | Alt+s=ⱬ
 
 C cedilla:
-Win+c=Ç Alt+c=ç
+Win+c=Ç | Alt+c=ç
 
 S caron:
-Win+h=Š Alt+h=š
+Win+h=Š | Alt+h=š
 
 Z caron:
-Win+z=Ž Alt+z=ž
+Win+z=Ž | Alt+z=ž
