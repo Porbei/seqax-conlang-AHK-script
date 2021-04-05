@@ -1,4 +1,4 @@
-﻿^t::
+#t::
 send, Þ
 return
 
@@ -14,7 +14,7 @@ return
 send, ð
 return
 
-^y::
+#y::
 send, Ñ
 return
 
@@ -22,7 +22,7 @@ return
 send, ñ
 return
 
-^g::
+#g::
 send, Ń
 return
 
@@ -30,7 +30,7 @@ return
 send, ń
 return
 
-^s::
+#s::
 send, Ⱬ
 return
 
@@ -38,7 +38,7 @@ return
 send, ⱬ
 return
 
-^c::
+#c::
 send, Ç
 return
 
@@ -46,7 +46,7 @@ return
 send, ç
 return
 
-^h::
+#h::
 send, Š
 return
 
@@ -54,7 +54,7 @@ return
 send, š
 return
 
-^z::
+#z::
 send, Ž
 return
 
