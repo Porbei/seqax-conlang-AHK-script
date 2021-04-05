@@ -1,5 +1,5 @@
 # seqax-conlang-AHK-script
-An Auto Hotkey script for my conlang, Šëqax (You will have to disable windows game bar for this to work properly, or you can download and edit the file to your preferences).
+An Auto Hotkey script for my conlang, Ðélas (You will have to disable windows game bar for this to work properly, or you can download and edit the file to your preferences).
 
 Guide:
 
@@ -27,3 +27,12 @@ Win+h=Š | Alt+h=š
 
 Z caron:
 Win+z=Ž | Alt+z=ž
+
+U umlaut:
+Win+u=Ü | Alt+u=ü
+
+E acute:
+Win+e=É | Alt+e=é
+
+AO Merged:
+Win+o=Ꜵ | Alt+o=ꜵ
