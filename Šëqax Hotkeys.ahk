@@ -61,3 +61,29 @@ return
 !z::
 send, ž
 return
+
+#u::
+send, Ü
+return
+
+!u::
+send, ü
+return
+
+#e::
+send, É
+return
+
+!e::
+send, é
+return
+
+#o::
+send, Ꜵ
+return
+
+!o::
+send, ꜵ
+return
+
+
